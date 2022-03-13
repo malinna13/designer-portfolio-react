@@ -1,0 +1,19 @@
+.aboutme {
+  background: #f6f6f6;
+  padding: 120px 480px 107px;
+}
+.aboutme-p {
+  font-family: "Gilroy-Medium";
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #070707;
+}
+.aboutme-text {
+  margin: 0 auto;
+  width: 485px;
+  padding-top: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 44px;
+}

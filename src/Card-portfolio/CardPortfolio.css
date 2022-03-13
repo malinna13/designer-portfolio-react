@@ -1,0 +1,13 @@
+.portf_link {
+  font-family: "Gilroy-Medium";
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  text-decoration-line: underline;
+  color: #070707;
+}
+.portf-card {
+  display: flex;
+  flex-direction: column;
+  gap: 46px;
+}

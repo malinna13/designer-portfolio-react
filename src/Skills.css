@@ -1,0 +1,11 @@
+.skills {
+  padding-top: 90px;
+  padding-bottom: 110px;
+  display: flex;
+  flex-direction: column;
+  gap: 70px;
+}
+.skills-cards {
+  display: flex;
+  gap: 90px;
+}

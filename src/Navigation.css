@@ -1,0 +1,13 @@
+.nav {
+  padding-block: 32px;
+  border-bottom: 1px solid #828282;
+}
+.nav-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+a {
+  font-size: 18px;
+  line-height: 22px;
+}

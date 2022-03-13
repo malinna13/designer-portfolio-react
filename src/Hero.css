@@ -1,0 +1,30 @@
+.hero {
+  padding-bottom: 104px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+.toggle {
+  transform: rotate(-90deg);
+  font-family: "Gilroy-Bold";
+  font-size: 16px;
+  line-height: 20px;
+  color: #828282;
+  padding-top: 72px;
+}
+h1 {
+  font-family: "Gilroy-Bold";
+  font-size: 47.3392px;
+  line-height: 59px;
+  color: #070707;
+}
+.hero-p {
+  font-family: "Gilroy-Medium";
+  font-size: 18px;
+  line-height: 22px;
+  color: #070707;
+  padding-top: 55px;
+}

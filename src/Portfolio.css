@@ -1,0 +1,10 @@
+.portfolio {
+  background: #f6f6f6;
+  padding: 112px 0 96px;
+}
+.portfolio-cards {
+  padding-top: 47px;
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+}

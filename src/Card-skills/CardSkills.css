@@ -1,0 +1,16 @@
+.card_skills {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.skill_logo {
+  height: 90px;
+}
+.card_skills p {
+  font-family: "Gilroy-Bold";
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #828282;
+  padding: 24px 0 40px;
+}

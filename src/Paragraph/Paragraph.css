@@ -1,0 +1,11 @@
+p {
+  font-family: "Gilroy-Medium";
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #070707;
+}
+
+.prelined {
+  white-space: pre-line;
+}
